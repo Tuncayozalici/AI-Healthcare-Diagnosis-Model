@@ -59,7 +59,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, please feel free to contact the author:
 
-[Author Name]
-Email: [author@example.com]
-GitHub: [github.com/author]
-LinkedIn: [linkedin.com/in/author]
+Tuncay Özalıcı - tuncay.ozalici@gmail.com - [GitHub](https://github.com/Tuncayozalici) - [LinkedIn](https://www.linkedin.com/in/tuncay-özalıcı)
